@@ -1,0 +1,2 @@
+# RGMMBench
+gaussian mixtures
